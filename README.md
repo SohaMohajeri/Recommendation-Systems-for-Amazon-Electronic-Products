@@ -19,7 +19,7 @@ This system matches persons with similar interests and provides recommendations 
 - This system builds an ensemble of Collaborative, Content-Based or Popularity-Based models to come up with a comprehensive Hybrid Recommendation System.
 
 
-Amazon Reviews data source has several datasets. For this case study, we are using the Electronics dataset which includes:
+Amazon Reviews data source has several datasets. For this case study, we are using the Electronics dataset (https://www.kaggle.com/saurav9786/amazon-product-reviews) which includes:
 - userId : Every user identified with a unique id
 - productId : Every product identified with a unique id
 - Rating : Rating of the corresponding product by the corresponding user
