@@ -23,7 +23,7 @@ Amazon Reviews data source has several datasets. For this case study, we are usi
 - userId : Every user identified with a unique id
 - productId : Every product identified with a unique id
 - Rating : Rating of the corresponding product by the corresponding user
-- timestamp : Time of the rating ( ignore this column for this exercise)
+- timestamp : Time of the rating ( ignore this column for this exercise) 
 
 
 Our objective is to build a recommendation system to recommend products to customers based on the their previous ratings for other products. For this purpose, first we will perform exploratory data analysis and then implement three recommendation algorithms including Popularity-Based, Collaborative, and Hybrid Recommenders.
