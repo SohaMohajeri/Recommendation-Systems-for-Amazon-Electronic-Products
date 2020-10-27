@@ -1,6 +1,17 @@
-# Recommendation Systems for Amazon Electronic Products
 
-![5](https://user-images.githubusercontent.com/69224996/96965816-a9815080-14c1-11eb-8dfe-49afac54d17d.png)
+<div align="center">
+  
+# Recommendation Systems for Amazon Electronic Products
+</div>
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/69224996/96965816-a9815080-14c1-11eb-8dfe-49afac54d17d.png" >
+</div>
+
+<br />
+
+<div align="justify">
 
 Online E-commerce websites like Amazon, Filpkart uses different recommendation models to provide different suggestions to different users. Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real time. This type of filtering matches each of the user's purchased and rated items to similar items, then combines those similar items into a recommendation list for the user. In this project we are going to build recommendation model for the electronics products of Amazon.
 
@@ -27,3 +38,7 @@ Amazon Reviews data source has several datasets. For this case study, we are usi
 
 
 Our objective is to build a recommendation system to recommend products to customers based on the their previous ratings for other products. For this purpose, first we will perform exploratory data analysis and then implement three recommendation algorithms including Popularity-Based, Collaborative, and Hybrid Recommenders.
+
+
+</div>
+
