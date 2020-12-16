@@ -38,6 +38,5 @@ Amazon Reviews data source has several datasets. For this case study, we are usi
 
 Our objective is to build a recommendation system to recommend products to customers based on the their previous ratings for other products. For this purpose, first we will perform exploratory data analysis and then implement three recommendation algorithms including Popularity-Based, Collaborative, and Hybrid Recommenders.
 
-
 </div>
 
